@@ -154,8 +154,7 @@ FinAlgoritmo
 ![Escribir sin saltar](./media/l1_13.png)
 
 ~~~text
-    
-    // También puedes agregar comentarios, notas o aclaraciones que te ayuden a expresar la lógica de tu programa haciendo uso de dos paréntesis seguidos (//)
+     // También puedes agregar comentarios, notas o aclaraciones que te ayuden a expresar la lógica de tu programa haciendo uso de dos paréntesis seguidos (//)
 ~~~
 
 Eso es todo por esta lección, te recomiendo hacer los ejercicios para que comprendas los conceptos base del pseudocódigo.
