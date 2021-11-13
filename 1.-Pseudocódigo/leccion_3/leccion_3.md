@@ -53,5 +53,22 @@ Ahora ejecutemos el código:
 
 En ese ejemplo comparamos si un valor es mayor que otro. Los operadores de comparación que están disponibles son:
 
-< Menor que
-> Mayor que
+1. < Menor que
+2. \> Mayor que
+3. = Igual que
+4. <= Menor o igual que
+5. \>= Mayor o igual que
+6. <> Distinto de
+
+Tambien puedes comprobar varias condiciones a la vez, para hacer instrucciones más complejas.
+Los operadores lógicos que puedes usar son:
+
+1. & ó Y (Conjunción)
+    Ejemplo: (7>4) & (2=1)// Falso
+
+2. | ó O (Disyunción)
+    Ejemplo: (1=1 | 2=1)// Verdadero
+
+3. ~ ó NO(Negación)
+    Ejemplo: ~(2<5) //Falso
+
