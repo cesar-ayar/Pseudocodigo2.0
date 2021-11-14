@@ -100,7 +100,7 @@ Escribimos el código en PSeint:
 
 Ejecutamos:
 
-![Resultado Guiones](.media/l11_06.png)
+![Resultado Guiones](./media/l11_06.png)
 
 ## Uso de LONGITUD
 
